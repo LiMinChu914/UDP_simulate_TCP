@@ -1,6 +1,6 @@
 # UDP_simulate_TCP
-use UDP to simulate TCP to achieve：
-1.delayed ACK
+use UDP to simulate TCP to achieve：\
+1.delayed ACK\
 2.fast recovery
 3.fast retransmit
 4.slow start
